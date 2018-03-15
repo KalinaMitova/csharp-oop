@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_03_Mordor_sCrueltyPlan.FoodFactory" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FoodFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_03_Mordor_sCrueltyPlan.MoodFactory" Collapsed="true">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAACAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MoodFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_03_Mordor_sCrueltyPlan.Program" Collapsed="true">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>MordorCrueltyPlan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_03_Mordor_sCrueltyPlan.Cram">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_03_Mordor_sCrueltyPlan.Lembas">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Lembas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_03_Mordor_sCrueltyPlan.Apple">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <InheritanceLine Type="_03_Mordor_sCrueltyPlan.FoodFactory" FixedFromPoint="true">
+      <Path>
+        <Point X="3.125" Y="1.062" />
+        <Point X="3.125" Y="1.26" />
+        <Point X="4.75" Y="1.26" />
+        <Point X="4.75" Y="1.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Apple.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_03_Mordor_sCrueltyPlan.Melon">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Melon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_03_Mordor_sCrueltyPlan.HoneyCake">
+    <Position X="1" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HoneyCake.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_03_Mordor_sCrueltyPlan.Mushrooms">
+    <Position X="3" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mushrooms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
